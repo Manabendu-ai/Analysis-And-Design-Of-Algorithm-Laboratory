@@ -18,6 +18,6 @@ int main(){
             return 0;
         }
     }
-    printf("Target Found Not Found!\n");
+    printf("Target Not Found!\n");
     return 0;
 }
